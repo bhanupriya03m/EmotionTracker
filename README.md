@@ -37,3 +37,5 @@ EmoInsight Engine is a video emotion detection system built using Python and the
 - The project uses Haar Cascade for face detection and DeepFace for emotion analysis.
 - Emotion detection results, including occurrences and dominant emotion, are saved in the `emotion_data.csv` file.
 
+![Project Demo](https://github.com/bhanupriya03m/main_image_streamlit/blob/main/main-%C2%B7-Streamlit.png)
+
