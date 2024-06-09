@@ -1,7 +1,7 @@
 # Emotion Tracker
 
 ## Overview
-EmoInsight Engine is a video emotion detection system built using Python and the DeepFace library. This project allows users to upload a video file, analyze the emotions present in the video, and save the results, including emotion occurrences and dominant emotions, to a CSV file.
+EmotionTracker is a video emotion detection system built using Python and the DeepFace library. This project allows users to upload a video file, analyze the emotions present in the video, and save the results, including emotion occurrences and dominant emotions, to a CSV file.
 
 ## Features
 - **Emotion Detection**: Detects and analyzes facial expressions in a video to identify emotions such as anger, neutral, happy, fear, and sad.
